@@ -12,6 +12,7 @@ public class BookingFragment extends Fragment {
 
     public BookingFragment() {
         // Required empty public constructor
+        //
     }
 
     @Override
