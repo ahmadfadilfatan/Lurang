@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525892174751",
+    "firebase_url": "https://lurang-f1867.firebaseio.com",
+    "project_id": "lurang-f1867",
+    "storage_bucket": "lurang-f1867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525892174751:android:79fb4babd98de08f87b3aa",
+        "android_client_info": {
+          "package_name": "com.example.lurang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525892174751-21htg15m88r1i4vnqrmv290e4kmkq93n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lurang",
+            "certificate_hash": "f0ee581c4c8f5cd34c95d35337a07643ba3d788e"
+          }
+        },
+        {
+          "client_id": "525892174751-iejlsmo80hjcldqb5qboq7q6avllr5vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwJOX6b_YBQAZI99iF1Sbqmt0swoKC1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525892174751-iejlsmo80hjcldqb5qboq7q6avllr5vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

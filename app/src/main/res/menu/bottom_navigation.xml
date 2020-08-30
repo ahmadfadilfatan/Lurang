@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_booking"
+        android:icon="@drawable/car"
+        android:title="Booking"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:iconTint="@color/colorPrimaryDark"
+        />
+
+    <item
+        android:id="@+id/nav_notif"
+        android:icon="@drawable/notif"
+        android:title="Notifikasi"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:iconTint="@color/colorPrimaryDark"
+        />
+
+    <item
+        android:id="@+id/nav_user"
+        android:icon="@drawable/user"
+        android:title="User Activity"
+        android:enabled="true"
+        app:showAsAction="ifRoom"
+        android:iconTint="@color/colorPrimaryDark"
+
+        />
+
+</menu>
